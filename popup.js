@@ -1,4 +1,4 @@
-let button1 = document.getElementById("button");
+let button1 = document.getElementById("getTabs");
 
 button1.addEventListener("click", function() {
   downloadTabs();
